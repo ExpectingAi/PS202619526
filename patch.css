@@ -1,0 +1,4 @@
+/* Brand color patch: all answers in navy blue, smaller logo */
+.row .a, .row .a.yes, .row .a.no { color: #1D4664 !important; }
+.brandbar .logo svg { width: 130px; height: 22px; }
+footer .brand svg { width: 100px; height: 17px; }
